@@ -21,5 +21,7 @@ public class Studente {
 			this.nome = nome;
 			this.matricola = matricola;
 		}
+		
+		public void metodo();
 
 }
